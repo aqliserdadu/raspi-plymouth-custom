@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=has
+Description=Has Desktop Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/has
+ScriptFile=/usr/share/plymouth/themes/has/has.script
